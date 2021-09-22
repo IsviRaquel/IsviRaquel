@@ -1,6 +1,6 @@
 # **Hi, I'm Isvi Raquel** 👩‍💻 👋
 ###
-![GitHub Logo] (data science foto git.png)
+[GitHub Logo] (data science foto git.png)
 
 ## Who am I?
 
