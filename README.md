@@ -1,16 +1,22 @@
-### Hi there 👋
+# **Hi, I'm Isvi Raquel** 👩‍💻 👋
+###
+![GitHub Logo] (data science foto git.png)
 
-<!--
-**IsviRaquel/IsviRaquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+* 👩💻 Data Science Student
+* 📚 Researcher
+* 🎓🎓🎓PhD of Chemical Engineering - UFBA (Student)
+* 🎓🎓 Master of Chemical Engineering - UFBA
+* 👩🎓 Bachelor of Petroleum Engineering - Unijorge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩💻 
+
+🌱 I’m currently learning:
+* 🐍 Python
+* 🧮 Power BI
+* 📊 Data Vizualization
+* 🔮 Machine Learning
+
+## Find me around the world :earth_americas:
+* [Linkedin] (www.linkedin.com/in/isvi-raquel/)
