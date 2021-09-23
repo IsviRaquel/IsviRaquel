@@ -19,4 +19,4 @@
 * 🔮 Machine Learning
 
 ## Find me around the world :earth_americas:
-* [Linkedin](www.linkedin.com/in/isvi-raquel/)
+* [Linkedin](https://www.linkedin.com/in/isvi-raquel/)
