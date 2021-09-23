@@ -15,7 +15,7 @@
 🌱 I’m currently learning:
 * 🐍 Python
 * 🧮 Power BI
-* 📊 Data Vizualization
+* 📊 Data Visualization
 * 🔮 Machine Learning
 
 ## Find me around the world :earth_americas:
